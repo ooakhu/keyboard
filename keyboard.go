@@ -9,6 +9,8 @@ import(
 	"strings"
 )
 
+//pineaplE8@
+
 //GetFloat reads a floating-point number from the keyboard
 func GetFloat() (float64, error) {
 	reader := bufio.NewReader(os.Stdin)
